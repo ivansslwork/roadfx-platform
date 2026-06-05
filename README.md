@@ -283,10 +283,6 @@ MIT © 2026 RoadFX Team
 
 ---
 
-## 🎁 Welcome Bonus
-
-Register via https://forge.mql5.io/ivan_i_82/roadfx-mql5/settings to get **7 days FREE Pro access**!
-
 ---
 
 Built with ❤️ using React + Vite + Tailwind CSS + TypeScript

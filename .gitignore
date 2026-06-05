@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+.build/
+.vercel/
+.wrangler/
+
+# Environment secrets
+.env
+.env.local
+.env.production
+*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# MQL5 compiled
+*.ex5
+*.ex4
+
+# Tests
+coverage/
+
+# Misc
+.cache/
+.parcel-cache/

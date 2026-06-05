@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://roadfx.app/sitemap.xml
+
+# RoadFX - AI Auto Trading Platform
+# https://forge.mql5.io/ivan_i_82/roadfx-mql5
